@@ -1,6 +1,6 @@
 {
-  "name": "Letter-counter",
-  "description": "count number of letters",
+  "name": "sample_popup_extension",
+  "description": "show current time in popup",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
